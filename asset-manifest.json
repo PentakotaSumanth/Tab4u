@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tab4u/static/css/main.5283b0cc.css",
+    "main.js": "/Tab4u/static/js/main.c38b1b78.js",
+    "static/js/453.d8dee83f.chunk.js": "/Tab4u/static/js/453.d8dee83f.chunk.js",
+    "index.html": "/Tab4u/index.html",
+    "main.5283b0cc.css.map": "/Tab4u/static/css/main.5283b0cc.css.map",
+    "main.c38b1b78.js.map": "/Tab4u/static/js/main.c38b1b78.js.map",
+    "453.d8dee83f.chunk.js.map": "/Tab4u/static/js/453.d8dee83f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5283b0cc.css",
+    "static/js/main.c38b1b78.js"
+  ]
+}
